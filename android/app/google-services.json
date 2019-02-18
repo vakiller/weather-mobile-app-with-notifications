@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231219874847",
+    "firebase_url": "https://weatherappwithnotification.firebaseio.com",
+    "project_id": "weatherappwithnotification",
+    "storage_bucket": "weatherappwithnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231219874847:android:9199ddfa2adcd493",
+        "android_client_info": {
+          "package_name": "com.weathermobileappwithnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231219874847-c5shvtvjlr8eofhvphqcrrkk56edrkqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzR-ttisj6ABrXEnwcEu-k_vQVG15kyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
